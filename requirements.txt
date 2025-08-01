@@ -1,0 +1,11 @@
+streamlit
+torch
+torchvision
+openai-clip
+pandas
+numpy<2
+scikit-learn
+plotly
+Pillow
+matplotlib
+watchdog
